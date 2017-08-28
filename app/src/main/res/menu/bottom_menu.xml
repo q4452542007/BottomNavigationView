@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@mipmap/ic_action_name"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/nav_book"
+        android:icon="@mipmap/ic_book_white_24dp"
+        android:title="Books" />
+    <item
+        android:id="@+id/nav_music"
+        android:icon="@mipmap/ic_music_note_white_24dp"
+        android:title="Music" />
+    <item
+        android:id="@+id/nav_tv"
+        android:icon="@mipmap/ic_tv_white_24dp"
+        android:title="MoviesTV" />
+
+    <item
+        android:id="@+id/nav_game"
+        android:icon="@mipmap/ic_videogame_asset_white_24dp"
+        android:title="Games" />
+</menu>
